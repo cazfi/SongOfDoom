@@ -12,4 +12,7 @@ https://raw.githubusercontent.com/jwrober/SongOfDoom/master/SongOfDoom.modpack
 For freeciv-3.0:
 https://raw.githubusercontent.com/jwrober/SongOfDoom/master/SongOfDoom.mpdl
 
+For freeciv-3.1:
+https://raw.githubusercontent.com/jwrober/SongOfDoom/master/SongOfDoom-3.1.mpdl
+
 and then click install modpack.
