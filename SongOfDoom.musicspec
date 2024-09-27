@@ -55,7 +55,7 @@ music_european_combat_6 = "SongOfDoom/DK-BattleEpic.ogg"
 music_european_combat_7 = "SongOfDoom/KE-Blizzard.ogg"
 music_european_combat_8 = "SongOfDoom/silence120.ogg"
 ;
-;Ancient Times - Bronze Age / Selection of Classical City Stlye
+;Ancient Times - Bronze Age / Selection of Classical City Style
 music_classical_peace_0 = "SongOfDoom/RB-ASongofIceandFire.ogg"
 music_classical_peace_1 = "SongOfDoom/TJ-IntoTheShadows.ogg"
 music_classical_peace_2 = "SongOfDoom/RB-Chosen.ogg"
@@ -74,7 +74,7 @@ music_classical_combat_6 = "SongOfDoom/DK-BattleEpic.ogg"
 music_classical_combat_7 = "SongOfDoom/KE-Blizzard.ogg"
 music_classical_combat_8 = "SongOfDoom/silence120.ogg"
 ;
-;Ancient Times - Bronze Age / Selection of Tropical City Stlye
+;Ancient Times - Bronze Age / Selection of Tropical City Style
 music_tropical_peace_0 = "SongOfDoom/BB-Punchline.ogg"
 music_tropical_peace_1 = "SongOfDoom/RB-Chosen.ogg"
 music_tropical_peace_2 = "SongOfDoom/AS-SeekingLoot.ogg"
@@ -96,7 +96,7 @@ music_asian_combat_1 = "SongOfDoom/RB-HouseStark.ogg"
 music_asian_combat_2 = "SongOfDoom/OL-0AD-FirstSighting.ogg"
 music_asian_combat_3 = "SongOfDoom/silence120.ogg"
 ;
-;Ancient Times - Bronze Age / Selection of Babylonian City Stlye
+;Ancient Times - Bronze Age / Selection of Babylonian City Style
 music_babylonian_peace_0 = "SongOfDoom/HFX-TravelsToTheEast.ogg"
 music_babylonian_peace_1 = "SongOfDoom/RB-NorthRemebers.ogg"
 music_babylonian_peace_2 = "SongOfDoom/RB-Weightless.ogg"
@@ -108,7 +108,7 @@ music_babylonian_combat_1 = "SongOfDoom/RB-HouseTargaryen.ogg"
 music_babylonian_combat_2 = "SongOfDoom/RB-HouseLannisters.ogg"
 music_babylonian_combat_3 = "SongOfDoom/silence120.ogg"
 ;
-;Ancient Times - Bronze Age / Selection of Celtic City Stlye
+;Ancient Times - Bronze Age / Selection of Celtic City Style
 music_celtic_peace_0 = "SongOfDoom/JS-HexxitDRAVESymphonie.ogg"
 music_celtic_peace_1 = "SongOfDoom/RB-TheWildWest.ogg"
 music_celtic_peace_2 = "SongOfDoom/PK-Summer_Rain.ogg"
